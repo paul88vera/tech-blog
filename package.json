@@ -27,6 +27,7 @@
     "express-handlebars": "^6.0.2",
     "express-session": "^1.17.2",
     "handlebars": "^4.7.7",
+    "heroku": "^7.59.2",
     "mysql2": "^2.3.3",
     "path": "^0.12.7",
     "sequelize": "^6.16.2"

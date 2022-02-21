@@ -17,7 +17,8 @@
   - [Questions](#questions)
 
   ## Installation
-  Follow the link provided and start using Tech Blog on a Heroku cloud-based server.
+  Follow the link provided and start using Tech Blog on a Heroku cloud-based server:
+  [View Website on Heroku](https://aqueous-depths-39284.herokuapp.com/)
 
   ## Usage
   Tech Blog is a great starting template to create a blog based site with login authorization and password encryption.

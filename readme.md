@@ -1,12 +1,12 @@
 
-  # Tech Blog
+  # Techie Blog
 ![Screenshot](./images/techblog_homepage.png)
 ![Screenshot](./images/techblog_signup.png)
 ![Screenshot](./images/techblog_postedit.png)
 
 
   ## Description
-  Tech Blog is a website template for creating blog posts. It also allows commenting and voting.
+  Techie Blog is a website template for creating blog posts. It also allows commenting and voting.
 
   ## Table of Contents
   - [Installation](#installation)
@@ -21,7 +21,7 @@
   [View Website on Heroku](https://aqueous-depths-39284.herokuapp.com/)
 
   ## Usage
-  Tech Blog is a great starting template to create a blog based site with login authorization and password encryption.
+  Techie Blog is a great starting template to create a blog based site with login authorization and password encryption.
 
   ## License
   License under [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) license

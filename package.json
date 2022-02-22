@@ -11,8 +11,8 @@
     "type": "git",
     "url": "git+https://github.com/paul88vera/tech-blog.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Paul-Vera",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/paul88vera/tech-blog/issues"
   },
